@@ -1,7 +1,7 @@
 <template>
   <div class="q-pa-md App">
     <h3 style="margin-top: 100px; color: white">
-      Bienvenido a nuestra sistema contable
+      Bienvenido a nuestro sistema contable
     </h3>
     <img
       src="https://i.pinimg.com/474x/fe/42/8e/fe428ecc2da0a0f756282f8108f588f1.jpg"
